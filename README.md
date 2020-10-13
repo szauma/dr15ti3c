@@ -8,7 +8,7 @@
     use My\Super\Library\Class;
      
     $data = [[1, 3], [1, 4], [2, 4], [3, 1], [4, 1], [4, 2]];
-     
+    # dr15ti3c     
     $object = new Class(1, 2, 3)
     $object->makeAwesome($data);
     ```
