@@ -1,5 +1,5 @@
    # dr15ti3c
-   # Wlasne repozytorium kodu
+   # Wlasne repozytorium kodu.
      
 This project simply solves `this` problem.
  
@@ -14,34 +14,33 @@ $object = new Class(1, 2, 3)
 $object->makeAwesome($data);
 ```
  
-## Documentation
+## Dokumentacja
  
-To find out how to use this library follow [Documentation](http://link-to-documentation).
+Moja dokumentacja dotycząca pracy w domu z zajęć projektowanie i systemy baz danych.
  
-## Installation
+## Instalacja
  
-You can install it with Composer:
+Instalacja została wykonana na zajęciach.
  
 ```
-composer require vendor/project
+https://github.com/szauma/dr15ti3c
 ```
  
-## Features
+## Cele i funkcje
  
-* Can make this and this
-* Helps with some other problew
-* Is awesome
+* zbior elementow pracy w domu
+* możliwość pomocy kolegow z zespołu projektowego
+* nadzór kierownika projektu
  
-## Contribute
+## Wkład projektowy
  
-* Issue Tracker: github.com/vendor/project/issues
-* Source Code: github.com/vendor/project
-* Tests: phpunit
+* Głowny nadzór: https://github.com/Michal3456
+* Kod projektu: https://github.com/szauma
  
-## License
+## Licencja
  
-This project is released under the MIT Licence. See the bundled LICENSE file for details.
+Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje można znaleźć w dołączonym pliku LICENCJA.
  
-## Author
+## Autor
  
-John Doe
+Dawid Rempuszewski
